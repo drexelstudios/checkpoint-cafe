@@ -26,3 +26,4 @@ body {
 .menu { padding: 0 40px 80px; max-width: 720px; }
 .menu ul { list-style: none; padding: 0; }
 .menu li { padding: 14px 0; border-top: 1px solid #0002; }
+.site-footer { padding: 24px 40px; font-size: 14px; border-top: 1px solid #0002; }
