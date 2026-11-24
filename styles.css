@@ -1,0 +1,15 @@
+:root {
+  --ink: #2b211c;
+  --paper: #f6f1ea;
+  --accent: #b5562f;
+}
+body {
+  margin: 0;
+  font-family: Georgia, serif;
+  color: var(--ink);
+  background: var(--paper);
+}
+.site-header { padding: 24px 40px; }
+.logo { font-weight: bold; letter-spacing: 0.04em; }
+.hero { padding: 96px 40px; max-width: 720px; }
+.hero h1 { font-size: 56px; line-height: 1.05; margin: 0; }
